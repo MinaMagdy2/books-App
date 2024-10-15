@@ -18,7 +18,6 @@ export default function About() {
                   <div className="container">
                     <div className="row no-gutters slider-text align-items-center justify-content-center">
                       <div className="col-md-9 ftco-animate text-center">
-                        <p className="breadcrumbs mb-2"><span className="mr-2"><a href="index.html">Home <i className="fa fa-chevron-right" /></a></span> <span>Contact <i className="fa fa-chevron-right" /></span></p>
                         <h1 className="mb-0 bread">Contact Us</h1>
                       </div>
                     </div>

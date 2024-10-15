@@ -9,7 +9,6 @@ export default function Contact() {
       <div className="container">
         <div className="row no-gutters slider-text align-items-center justify-content-center">
           <div className="col-md-9 ftco-animate text-center">
-            <p className="breadcrumbs mb-2"><span className="mr-2"><a href="index.html">Home <i className="ion-ios-arrow-forward" /></a></span> <span>About us <i className="ion-ios-arrow-forward" /></span></p>
             <h1 className="mb-0 bread">About Us</h1>
           </div>
         </div>

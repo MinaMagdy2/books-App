@@ -16,7 +16,7 @@ export default function Contact() {
       </div>
     </section>
      
-    <section className="ftco-section bg-light">
+    <section className="ftco-section bg-light sec">
       <div className="container">
         <div className="row">
           <div className="col-md-4 d-flex services align-self-stretch px-4 ftco-animate">
@@ -52,10 +52,10 @@ export default function Contact() {
         </div>
       </div>
     </section>
-    <section className="ftco-section testimony-section bg-light">
+    <section className="ftco-section testimony-section bg-light sec">
       <div className="container">
         <div className="row justify-content-center pb-5 mb-3">
-          <div className="col-md-7 heading-section text-center ftco-animate">
+          <div className="col-md-7 heading-section text-center ftco-animate feed">
             <h2>Happy Clients &amp; Feedbacks</h2>
           </div>
         </div>

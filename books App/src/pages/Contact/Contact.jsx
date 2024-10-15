@@ -24,7 +24,7 @@ export default function About() {
                     </div>
                   </div>
                 </section>
-                <section className="ftco-section bg-light">
+                <section className="ftco-section bg-light sec">
                   <div className="container">
                     <div className="row no-gutters">
                       <div className="col-md-8">

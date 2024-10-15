@@ -44,7 +44,6 @@ export default function Register() {
   return (
     <div className="Regisert">
       <form className="Re_form" onSubmit={handleSubmit}>
-        <h1>User Registration</h1>
         {message && <p style={{ color: 'red' }}>{message}</p>}
         {response && <p style={{ color: 'green' }}>{response}</p>}
         <input
